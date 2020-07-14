@@ -1,0 +1,10 @@
+{
+  "name": "js-urabsz",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1",
+    "fontawesome": "^5.6.3"
+  }
+}
